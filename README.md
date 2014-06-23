@@ -21,5 +21,14 @@
 |抢座网 | http://www.51qiangzuo.com/ | 在线活动及会议组织网站 |
 |科学松鼠会 | http://songshuhui.net/ | 在大众文化层面传播科学的非营利机构 |
 |豌豆夹 | http://www.wandoujia.com/ | 来自创新工场的豌豆实验室 |
+|创业邦 | http://www.cyzone.cn/ | 创业类杂志 |
+|创新工场 | http://www.chuangxin.com/ | 由李开复博士创办的创业平台 |
+|创品经理沙龙 | http://www.pmcaff.com/ | 产品经理学习，交流，发展平台 |
+|科技娲母 | http://www.techwom.com/ | 产品设计及专业信息服务 |
+
+
+
+
+
 
 
