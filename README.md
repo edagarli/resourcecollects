@@ -21,6 +21,11 @@
 |抢座网 | http://www.51qiangzuo.com/ | 在线活动及会议组织网站 |
 |科学松鼠会 | http://songshuhui.net/ | 在大众文化层面传播科学的非营利机构 |
 |豌豆夹 | http://www.wandoujia.com/ | 来自创新工场的豌豆实验室 |
+
+
+####创业类与产品经理类
+|名称 | 网站地址 | 介绍 | 
+| ----- | ----- | ------ |
 |创业邦 | http://www.cyzone.cn/ | 创业类杂志 |
 |创新工场 | http://www.chuangxin.com/ | 由李开复博士创办的创业平台 |
 |创品经理沙龙 | http://www.pmcaff.com/ | 产品经理学习，交流，发展平台 |
@@ -34,6 +39,26 @@
 |互联网的一些事 | http://www.yixieshi.com/ | 互联网资讯 |
 |易观网 | http://www.eguan.cn/ | 互联网信息资询服务 |
 |苏杰的博客 | http://iamsujie.com/ | 《人人都是产品经理》博客 |
+
+
+####知名公司的用户体验站点
+|名称 | 网站地址 | 
+| ----- | ----- | 
+|支付宝UED | http://ued.alipay.com/ |
+|阿里巴巴中文站 | http://china.aliued.com/ |
+|CHINAUI优艾网 | http://www.chinaui.com/ |
+|UCD大社区 | http://www.ucdchina.com/ |
+|视觉同盟 | http://www.visionunion.com/ |
+|视觉中国 | http://www.chinavisual.com/ |
+|口碑网UED | http://ued.koubei.com/ |
+
+
+
+
+
+
+
+
 
 
 
