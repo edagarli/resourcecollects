@@ -51,6 +51,28 @@
 |视觉同盟 | http://www.visionunion.com/ |
 |视觉中国 | http://www.chinavisual.com/ |
 |口碑网UED | http://ued.koubei.com/ |
+|9RIA.com天地会 | http://www.9ria.com/ |
+|阿里妈妈UED | http://ued.alimama.com/ |
+|腾讯CDC | http://cdc.tencent.com/ |
+|腾讯WSD用户体验设计团队 | http://wsd.tencent.com/ |
+|搜狐UED | http://ued.sohu.com/ |
+|中国UI设计师大社区 | http://www.uirss.com/ |
+|盛大游戏UED | http://www.sndaued.com/blog/ |
+|百度泛用户体验 | http://www.baiduux.com/ |
+|百度MUX | http://mux.baidu.com/ |
+|人人网FED | http://fed.renren.com/ |
+|网易杭州研究所UX团队 | http://ucd.blog.163.com/ |
+|IxDC-交互设计专业委员会 | http://ixdc.org/ |
+|译言网科技频道 | http://www.yeeyan.org/ |
+
+
+
+
+
+
+
+
+
 
 
 
