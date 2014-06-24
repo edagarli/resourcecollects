@@ -66,6 +66,39 @@
 |译言网科技频道 | http://www.yeeyan.org/ |
 
 
+####美学与艺术:产品设计初体验
+|名称 | 网站地址 | 
+| ----- | ----- | 
+|中国美术学院 | http://www.chinaacademyofart.com/ |
+|丹麦设计学院 | http://www.dkds.dk/ |
+|中央美术学院 | http://www.cafa.com.cn/ |
+|芝加哥美术学院 | http://www.saic.edu/ |
+|中国美术网 | http://www.ms.net.cn/ |
+|雅昌艺术网 | http  ://www.artron.net/ |
+|英国皇家美术学院 | http://www.rca.ac.uk |
+
+####产品设计工具
+|名称 | 网站地址 | 
+| ----- | ----- | 
+|SmartDraw | http://www.smartdraw.com.cn/ |
+|百会网 | http://www.baihui.com/ |
+|MindMap | http://mindmap.fltrp.com/ |
+|Subversion中文站 | http://www.subversion.org.cn |
+|swfdecomplier | http://www.onlinedown.net/soft/40629.htm |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
