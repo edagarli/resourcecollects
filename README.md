@@ -22,6 +22,7 @@
 |抢座网 | http://www.51qiangzuo.com/ | 在线活动及会议组织网站 |
 |科学松鼠会 | http://songshuhui.net/ | 在大众文化层面传播科学的非营利机构 |
 |豌豆夹 | http://www.wandoujia.com/ | 来自创新工场的豌豆实验室 |
+|Doc2X| https://doc2x.noedgeai.com/ | PDF、扫描件和图片解析为 Word、Markdown、LaTeX，识别公式和表格，支持文档翻译；需账号，有限免费额度与付费升级，云端处理，API 独立计费。 |
 
 
 ####创业类与产品经理类
