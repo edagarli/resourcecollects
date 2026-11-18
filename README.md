@@ -22,7 +22,7 @@
 |抢座网 | http://www.51qiangzuo.com/ | 在线活动及会议组织网站 |
 |科学松鼠会 | http://songshuhui.net/ | 在大众文化层面传播科学的非营利机构 |
 |豌豆夹 | http://www.wandoujia.com/ | 来自创新工场的豌豆实验室 |
-
+|MoeRouter | https://moerouter.com/ | 用于产品集成的多模型 API 网关，按实际用量以人民币计费 |
 
 ####创业类与产品经理类
 |名称 | 网站地址 | 介绍 | 
